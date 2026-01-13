@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brttngt&label=Profile%20views&color=0e75b6&style=plastic" alt="brttngt" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brttngt" alt="brttngt" /></a> </p>
-
 - 🌱 I’m currently learning **Different types of architectures, Java, C/C++ and some other stuff**
 
 - 👯 I’m looking to collaborate on **Computer architecture**
