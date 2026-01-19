@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brttngt&label=Profile%20views&color=0e75b6&style=plastic" alt="brttngt" /> </p>
 
-- 🌱 I’m currently learning **Different types of architectures, Java, C/C++ and some other stuff**
+- 🌱 I’m currently learning **Different types of computer architectures, Java, C/C++ and some other stuff**
 
 - 👯 I’m looking to collaborate on **Computer architecture**
 
