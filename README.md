@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **how to do some research in undergrad or masters level**
 
-- 💬 Ask me about **Computer Architectures or Hardwares**
+- 💬 Ask me about **Computer Architectures or Hardwares or Java/C**
 
 - 📫 How to reach me **berattongut@gmail.com - s320906@studenti.polito.it**
 
