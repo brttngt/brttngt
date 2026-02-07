@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Different types of computer architectures, Java, C/C++ and some other stuff**
 
-- 👯 I’m looking to collaborate on **Computer architecture**
+- 👯 I’m looking to collaborate on **Computer architecture, HPC, Parallel processing**
 
 - 🤝 I’m looking for help with **how to do some research in undergrad or masters level**
 
